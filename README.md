@@ -14,6 +14,7 @@ Thank you so much for all that you have done and do.
 Signed,
 
 - Mathias Reker ([@MathiasReker](https://github.com/MathiasReker)), Full Stack Web Developer, Denmark
+- Hosanna Amane ([@Alloco225](https://github.com/Alloco225)), Fullstack Web & Mobile Developer, Côte d'Ivoire
 
 
 Inspired by the
